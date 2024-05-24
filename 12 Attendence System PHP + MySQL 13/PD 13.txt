@@ -1,0 +1,1 @@
+13. Attendance system with PHP and MySQL - A: Students should be able to register. B: The teacher should be able to mark attendance using checkboxes. 
